@@ -1,0 +1,12 @@
+{
+    "name": "ahmadpriatama/fontawesome-markers",
+    "description": "Iconic markers for Map, based on the Font-Awesome icons",
+    "authors": [
+        {
+            "name": "Ahmad Priatama",
+            "email": "ahmad.priatama@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
